@@ -1,5 +1,7 @@
 lab/data
 *.npy
+lab/results
+*.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
