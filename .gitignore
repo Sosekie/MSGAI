@@ -2,6 +2,8 @@ lab/data
 *.npy
 lab/results
 *.pkl
+lab/exercise-3
+lab/results_few-shot
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
